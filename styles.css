@@ -15,6 +15,7 @@ body{
     margin: -8px;
     padding-top: 50px;
     padding-bottom: 50px;
+    margin-bottom: 50px;
     background: linear-gradient(#157A6E, #B4654A);
 }
 
@@ -78,7 +79,7 @@ body{
     text-shadow: 2px 1px 2px black;
     border-radius: 5%;
     padding:24px;
-    background: #77B28C;
+    background: #499F68;
 }
 
 #locations-info{
@@ -86,6 +87,13 @@ body{
     justify-content: space-evenly;
     text-align: center;
     margin-bottom:80px;
+}
+
+#middle{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    background: #77B28C;
+    border-radius: 2%;
 }
 
 #bottom{
